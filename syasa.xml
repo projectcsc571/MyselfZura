@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Syasa>
+    <contact>
+        <name>SYASA BINTI YAZID</name>
+        <email>syasayazid44@gmail.com</email>
+        <phone>019-7457682</phone>
+        <age>22</age>
+    </contact>
+    <education>
+        <education id="degree">UNIVERSITI TEKNOLOGI MARA, KAMPUS JASIN, MELAKA</education>
+        <education id="diploma">UNIVERSITI TEKNOLOGI MARA, KAMPUS SEGAMAT, JOHOR</education>
+        <education id="secondary school">SEKOLAH MENENGAH KEBANGSAAN AGAMA SEGAMAT, JOHOR</education>
+    </education>
+    <skills>
+        <!-- SOFT SKILLS-->
+        <skills id="1">WILLINGNESS TO LEARN</skills>
+        <skills id="2">EFFECTIVE IN COMMUNICATION</skill>
+    </skills>
+    <awards>
+        <awards id="1">EXCO MULTIMEDIA IN PERMAS CLUB, 2018 - 2019</awards>
+    </awards>
+    <hobbies>
+        <hobbies id="1">ORGANIZE ONLINE BUSINESS</hobbies>
+        <hobbies id="2">EDITING VIDEO</hobbies>
+        <hobbies id="3">WATCHING YOUTUBE</hobbies>
+    </hobbies>
+    <languages>
+        <!--SPEECH LANGUAGE -->
+        <languages id="1">ENGLISH</languages>
+        <languages id="2">MALAY</languages>
+        <!--PROGRAMMING LANGUAGE -->
+        <languages id="1">C++</languages>
+        <languages id="2">HTML</languages>
+        <languages id="3">Python</languages>
+        <languages id="4">Prolog</languages>
+        <languages id="5">Pascal</languages>
+        <languages id="6">C</languages>
+        <languages id="7">Scheme</languages>
+        <languages id="8">CSS</languages>
+        <languages id="9">JAVA</languages>
+        <languages id="10">PHP</languages>
+        <languages id="11">JavaScript</languages>
+    </languages>
+    <experiences>
+        <experiences id="1">SALES ASSISTANT IN AM JINNAH STORE SEGAMAT, 2017</experiences>
+        <experiences id="2">FACTORY WORKER IN APOLLO FOOD INDUSTRIES LARKIN JOHOR BAHRU, 2018</experiences>
+        <experiences id="3">INTERNSHIP IN TENAGA NASIONAL HEADQUARTERS BANGSAR KUALA LUMPUR, 2019</experiences>
+        <experiences id="4">SALES ASSISTANT IN REJINAH STORE SEGAMAT, 2018 - 2021</experiences>
+        <experiences id="5">VOLUNTEER IN PPV SEGAMAT, 2021</experiences>
+    </experiences>
+    <imagePath>.....\Syasa</imagePath>
+</Syasa>
