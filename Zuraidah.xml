@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Zuraidah>
+    <contact>
+        <name>SITI ZURAIDAH BINTI AHMAD TARMEZE</name>
+        <email>cikzura99@gmail.com</email>
+        <phone>011-21956447</phone>
+        <age>22</age>
+    </contact>
+    <education>
+        <education id="degree">UNIVERSITI TEKNOLOGI MARA, KAMPUS JASIN</education>
+        <education id="diploma">UNIVERSITI TEKNOLOGI MARA, KAMPUS RAUB</education>
+        <education id="secondary school">SEKOLAH MENENGAH AGAMA AL-IHSAN</education>
+    </education>
+    <skills>
+        <!-- SOFT SKILLS-->
+        <skills id="1">GOOD COMMUNICATION SKILLS</skills>
+        <skills id="2">TEAM-PLAYER WHO CAN ALSO WORKS INDEPENDENTLY</skills>
+        <skills id="3">GREAT CRITICAL THINKING AND PROBLEM SOLVING</skills>
+        <skills id="4">GOOD TIME AND SELF MANAGEMENT </skills>
+        <skills id="5">FLEXIBILITY AND ADAPTABILITY</skills>
+    </skills>
+    <awards>
+        <awards id="1">"ANUGERAH APRESIASI AKADEMIK" in Diploma, 2019</awards>
+        <awards id="2">ANUGERAH NAIB CANSELOR(ANC) in Diploma, 2020</awards>
+    </awards>
+    <hobbies>
+        <hobbies id="1">BADMINTION</hobbies>
+        <hobbies id="2">SURFING THE INTERNET</hobbies>
+        <hobbies id="3">READ NOVEL</hobbies>
+    </hobbies>
+    <languages>
+        <!--SPEECH LANGUAGE -->
+        <languages id="1">ENGLISH</languages>
+        <languages id="2">MALAY</languages>
+        <!--PROGRAMMING LANGUAGE -->
+        <languages id="3">JAVA</languages>
+        <languages id="4">C++</languages>
+        <languages id="5">Python</languages>
+        <languages id="6">HTML</languages>
+        <languages id="7">CSS</languages>
+        <languages id="8">PHP</languages>
+        <languages id="9">JavaScript</languages>
+    </languages>
+    <experiences>
+        <experiences id="1">SALESPERSON IN GEMOK BOUTIQE, 2017</experiences>
+        <experiences id="2">CUSTOMER SERVICE IN OLDTOWN WHITE COFFEE, 2018</experiences>
+        <experiences id="3">INTERNSHIP IN ASSISTANT RECTOR'S OFFICE(UITM KAMPUS RAUB), 2019</experiences>
+    </experiences>
+    <imagePath>.....\Zura</imagePath>
+</Zuraidah>
